@@ -23,8 +23,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 📍 From SP - Brazil
 - 💻 Software Developer at [Marketdata](http://www.marketdata.com.br/)
-- 🌍 [Kaique's Portfolio](http://www.kaiquecosta.com)
 - :mortar_board: Bachelor's degree, Computer Science at [Mackenzie](https://www.mackenzie.br/) (12/2021)
+- 🌍 [Kaique's Portfolio](http://www.kaiquecosta.com)
+
 
 Reach me out 👇🏼
 
