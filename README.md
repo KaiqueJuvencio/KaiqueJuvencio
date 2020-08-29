@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kaique Costa 
+### Hey, I'm Kaique Costa! 👋
 
 I'm A Software Developer, that has been working as a Back-End developer since January 2019.  💻
 
