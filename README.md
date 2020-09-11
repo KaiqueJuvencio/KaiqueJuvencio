@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Kaique Costa! 👋
 
+<!-- ![](cubo.gif) -->
+
 I'm A Software Developer, that has been working as a Back-End developer since January 2019.  💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
