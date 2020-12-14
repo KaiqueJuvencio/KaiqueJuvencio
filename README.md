@@ -24,8 +24,9 @@ I'm A Software Developer, that has been working as a Back-End developer since Ja
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - 📍 From SP - Brazil
-- 💻 Software Developer at [Marketdata](http://www.marketdata.com.br/)
+- 💻 Junior Java Developer at Della Volpe Transportes
 - :mortar_board: Bachelor's degree, Computer Science at [Mackenzie](https://www.mackenzie.br/) (12/2021)
+- :books: [Look at my CV](http://kaiquecosta.com/cv/KaiqueCV.pdf)
 - 🌍 [Kaique's Portfolio](http://www.kaiquecosta.com)
 
 
