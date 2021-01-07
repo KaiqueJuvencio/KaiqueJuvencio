@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <!-- ![](cubo.gif) -->
 
-I'm A Software Developer, that has been working as a Back-End developer since January 2019.  💻
+:rocket: I'm A Software Developer, that has been working as a Back-End developer since January 2019.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+:dart: I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 > - 📍 From SP - Brazil
 > - 💻 Junior Java Developer at [Della Volpe Transportes](https://dellavolpe.com.br/)
