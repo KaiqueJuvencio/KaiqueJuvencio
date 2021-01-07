@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 <h2>Reach me out 👇🏼</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquejuvencio/)](https://www.linkedin.com/in/kaiquejuvencio/) | [![Gmail Badge](https://img.shields.io/badge/-kaiquejuvenciocosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquejuvenciocosta@gmail.com)](mailto:kaiquejuvenciocosta@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquejuvencio/)](https://www.linkedin.com/in/kaiquejuvencio/) [![Gmail Badge](https://img.shields.io/badge/-kaiquejuvenciocosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquejuvenciocosta@gmail.com)](mailto:kaiquejuvenciocosta@gmail.com)
