@@ -30,13 +30,12 @@ Here are some ideas to get you started:
 > - :books: [Look at my CV](http://kaiquecosta.com/cv/KaiqueCV.pdf)
 > - 🌍 [Kaique's Portfolio](http://www.kaiquecosta.com)
 
-
-Reach me out 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquejuvencio/)](https://www.linkedin.com/in/kaiquejuvencio/)
-
 <h2>Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueJuvencio&exclude_repo=portfolio-tcb,KaiqueJuvencio.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KaiqueJuvencio&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KaiqueJuvencio.KaiqueJuvencio)
+
+<h2>Reach me out 👇🏼</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquejuvencio/)](https://www.linkedin.com/in/kaiquejuvencio/) | [![Gmail Badge](https://img.shields.io/badge/-kaiquejuvenciocosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiquejuvenciocosta@gmail.com)](mailto:kaiquejuvenciocosta@gmail.com)
