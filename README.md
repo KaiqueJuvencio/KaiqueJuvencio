@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 > - 📍  From SP - Brazil
 > - 💻 Pleno Java Developer at [SIS Consultoria](https://www.sisconsultoria.com.br/#/)
 > - :mortar_board: Bachelor's degree, Computer Science at [Mackenzie](https://www.mackenzie.br/) (12/2021)
+> - :mortar_board: MBA, Full Stack Development at [FIAP](https://www.fiap.com.br) (04/2023)
 > - :books: [Look at my CV](http://kaiquecosta.com/cv/KaiqueCV.pdf)
 > - 🌍 [Kaique's Portfolio](http://www.kaiquecosta.com)
 
