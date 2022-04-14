@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 > - 💻 Pleno Java Developer at [SIS Consultoria](https://www.sisconsultoria.com.br/#/)
 > - :mortar_board: Bachelor's degree, Computer Science at [Mackenzie](https://www.mackenzie.br/) (12/2021)
 > - :mortar_board: MBA, Full Stack Development at [FIAP](https://www.fiap.com.br) (04/2023)
-> - :books: [Look at my CV](http://kaiquecosta.com/cv/KaiqueCV.pdf)
-> - 🌍 [Kaique's Portfolio](http://www.kaiquecosta.com)
+> - :books: [Look at my CV](http://kaiquecosta.com/cv/kaique-cv-en.pdf)
+> - 🌍 www.kaiquecosta.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
