@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 :dart: I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 > - 📍  From SP - Brazil
-> - 💻 Pleno Java Developer at [SIS Consultoria](https://www.sisconsultoria.com.br/#/)
+> - 💻 Java Software Engineer at [UL Solutions](https://www.linkedin.com/company/ulsolutions)
 > - :mortar_board: Bachelor's degree, Computer Science at [Mackenzie](https://www.mackenzie.br/) (12/2021)
 > - :mortar_board: MBA, Full Stack Development at [FIAP](https://www.fiap.com.br) (04/2023)
 > - :books: [Look at my CV](http://kaiquecosta.com/cv/kaique-cv-en.pdf)
