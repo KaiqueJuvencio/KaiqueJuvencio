@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 > - 💻 Java Software Engineer at [UL Solutions](https://www.linkedin.com/company/ulsolutions)
 > - :mortar_board: Bachelor's degree, Computer Science at [Mackenzie](https://www.mackenzie.br/) (12/2021)
 > - :mortar_board: MBA, Full Stack Development at [FIAP](https://www.fiap.com.br) (04/2023)
-> - :books: [Look at my CV](http://kaiquecosta.com/cv/kaique-cv-en.pdf)
+> - :books: [Look at my CV](http://kaiquecosta.com/cv/kaique-cv.pdf)
 > - 🌍 www.kaiquecosta.com
 
 <div style="display: inline_block"><br>
